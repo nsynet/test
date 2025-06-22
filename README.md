@@ -13,6 +13,7 @@ Data4,Data5,Data6
   <tr><th>Header1</th><th>Header2</th></tr>
   <tr><td>Data1</td><td>Data2</td></tr>
 </table>
+```
 
 ```mermaid
 flowchart LR
